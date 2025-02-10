@@ -1,2 +1,2 @@
 # highlight_zig_build
-highlight packaged for Zig
+[highlight](https://gitlab.com/saalen/highlight) packaged for Zig
